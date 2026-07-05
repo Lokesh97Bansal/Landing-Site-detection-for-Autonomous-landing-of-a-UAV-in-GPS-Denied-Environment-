@@ -2,7 +2,7 @@
 
 **Computer-vision + deep-RL landing-site detection for drone landing on a moving platform, developed at ÉTS Montréal under the Mitacs Globalink program.**
 
-▶ [**Watch the demo video**](./video.mp4) · 📄 [**Project report (PDF)**](./AISP2020_AI_UAV_Landing_LOKESH_Extended Abstract.pdf)
+▶ [**Watch the demo video**](./video.mp4) · 📄 [**Extended abstract (PDF)**](./AISP2020_AI_UAV_Landing_LOKESH_Extended%20Abstract.pdf) · 🖼 [**Conference poster (PDF)**](./Lokesh_AISP-2020%20POSTER.pdf)
 
 ![Result](./featured.PNG)
 
